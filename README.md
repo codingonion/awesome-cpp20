@@ -9,7 +9,8 @@ This repository lists some awesome public projects about C++20, C++23, C++26 and
   - [Summary](#summary)
     - [Learning Resources](#learning-resources)
   - [LeetCode](#leetcode)
-  - [Data Structure and Algorithm](#data-structure-and-algorithm)
+  - [Data Structures and Algorithms](#data-structure-and-algorithm)
+  - [Graph Theory](#graph-theory)
   - [Parallel and Async Library](#parallel-and-async-library)
   - [Scientific Computation](#scientific-computation)
     - [Optimization Framework](#optimization-framework)
@@ -65,6 +66,11 @@ This repository lists some awesome public projects about C++20, C++23, C++26 and
   - [davidbrowne/dsga](https://github.com/davidbrowne/dsga) <img src="https://img.shields.io/github/stars/davidbrowne/dsga?style=social"/> : C++20 library that mostly implements the vector and matrix data structures from GLSL Spec 4.6.
 
 
+
+## Graph Theory
+
+  - [SpectraL519/cpp-gl](https://github.com/SpectraL519/cpp-gl) <img src="https://img.shields.io/github/stars/SpectraL519/cpp-gl?style=social"/> : About
+General-purpose Template Graph and Hypergraph Library for Modern C++
 
 
 
@@ -126,7 +132,7 @@ This repository lists some awesome public projects about C++20, C++23, C++26 and
 
 ## Argument Parser
 
-  - [SpectraL519/cpp-ap](https://github.com/SpectraL519/cpp-ap) <img src="https://img.shields.io/github/stars/SpectraL519/cpp-ap?style=social"/> : Argument Parser for C++20.
+  - [SpectraL519/cpp-argon](https://github.com/SpectraL519/cpp-argon) <img src="https://img.shields.io/github/stars/SpectraL519/cpp-argon?style=social"/> : Command-Line Argument Parser for C++20
 
 
 
